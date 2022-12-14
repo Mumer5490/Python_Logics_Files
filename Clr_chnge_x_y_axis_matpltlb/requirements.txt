@@ -1,0 +1,3 @@
+https://www.skytowner.com/explore/changing_the_color_of_axes_in_matplotlib
+
+https://stackoverflow.com/questions/4761623/how-to-change-the-color-of-the-axis-ticks-and-labels-for-a-plot-in-matplotlib
